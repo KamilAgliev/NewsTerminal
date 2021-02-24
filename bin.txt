@@ -1,0 +1,4 @@
+reply_keyboard = []
+
+reply_keyboard.append(["/set_timetable"])
+markup = ReplyKeyboardMarkup(reply_keyboard, one_time_keyboard=True)
